@@ -62,7 +62,7 @@ module.exports = {
         }
       ],
       logo: {
-        alt: "asd",
+        alt: "",
         src: "https://docusaurus.io/img/oss_logo.png"
       },
       copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc. Built with Docusaurus.`
